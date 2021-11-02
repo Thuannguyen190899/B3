@@ -1,0 +1,7 @@
+//Chuyển đổi tiền tệ
+
+BEGIN
+    Input Dola
+        VND = Dola*23000
+    Display VND
+END
